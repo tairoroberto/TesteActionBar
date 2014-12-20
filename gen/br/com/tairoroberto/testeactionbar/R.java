@@ -1636,6 +1636,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020034;
     }
     public static final class id {
+        public static final int LinearLayout1=0x7f09003f;
         public static final int action_bar=0x7f090031;
         public static final int action_bar_activity_content=0x7f090003;
         public static final int action_bar_container=0x7f090030;
@@ -1643,15 +1644,15 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f090002;
         public static final int action_bar_subtitle=0x7f09001f;
         public static final int action_bar_title=0x7f09001e;
-        public static final int action_buscar=0x7f090040;
+        public static final int action_buscar=0x7f090042;
         public static final int action_context_bar=0x7f090032;
         public static final int action_menu_divider=0x7f090005;
         public static final int action_menu_presenter=0x7f090006;
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_sair=0x7f090041;
-        public static final int action_settings=0x7f09003f;
+        public static final int action_sair=0x7f090043;
+        public static final int action_settings=0x7f090041;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int always=0x7f090014;
         public static final int beginning=0x7f09001b;
@@ -1666,6 +1667,7 @@ containing a value of this type.
         public static final int end=0x7f09001c;
         public static final int expand_activities_button=0x7f090022;
         public static final int expanded_menu=0x7f090028;
+        public static final int fragmentContainer=0x7f090040;
         public static final int home=0x7f090000;
         public static final int homeAsUp=0x7f09000e;
         public static final int icon=0x7f090026;
